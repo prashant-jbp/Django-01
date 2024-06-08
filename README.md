@@ -14,9 +14,13 @@
 
 > (.ven) C:\PRASHANT>python -m pip install Django
 
-> (.ven) C:\PRASHANT> django-admin 
+### find django all commands switch
+### its optional command
+> (.ven) C:\PRASHANT> django-admin
 
-> (.ven) C:\PRASHANT> django --version
+### its optional command
+### find django  installed version
+> (.ven) C:\PRASHANT> django-admin --version
 
 > (.ven) C:\PRASHANT> django-admin  startproject myproject
 
@@ -24,6 +28,11 @@
 
 ### it will show localhost 
 copy and paste to url or ctrl+click follow link
+```python
+
+Django version 5.0.6, using settings 'myproject.settings'
+Starting development server at http://127.0.0.1:8000/
+```
 
 
 
