@@ -16,5 +16,14 @@
 
 > (.ven) C:\PRASHANT> django-admin 
 
-> (.ven) C:\PRASHANT> django --version  
+> (.ven) C:\PRASHANT> django --version
+
+> (.ven) C:\PRASHANT> django-admin  startproject myproject
+
+> (.ven) C:\PRASHANT\myproject> python manage.py runserver
+
+### it will show localhost 
+copy and paste to url or ctrl+click follow link
+
+
 
