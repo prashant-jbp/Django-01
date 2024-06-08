@@ -5,7 +5,7 @@
 > python -m venv .ven
 
 ###  ACTIVE VERTUAL ENV
- > C:\PRASHANT\.ven\script\active.bat
+ > C:\PRASHANT>.ven\script\active.bat
 
 #### After 
 >   (.ven) C:\PRASHANT>
